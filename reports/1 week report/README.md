@@ -30,3 +30,9 @@
 - Continued passing fourth course (4 hours)
 
 ###### P.S. Forgotten to say that as you can see I skipped third course, because of a strange method of information delivery and it was hard to understand what author says (Partly because of my english level)
+
+### Saturday 17.07
+
+- Passed two and a half trello cards (4 hours)
+
+###### P.S. Maybe not that many cards passed for 4 hours, but I think it's ok, because topics was pretty big 
