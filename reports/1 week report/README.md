@@ -22,17 +22,14 @@
 ### Thursday 15.07
 
 - Started very interesting (in my opinion) fourth course (1 + 3 hours)
-
 ###### P.S. This time I been writing code with lecturer
 
 ### Friday 16.07
 
 - Continued passing fourth course (4 hours)
-
 ###### P.S. Forgotten to say that as you can see I skipped third course, because of a strange method of information delivery and it was hard to understand what author says (Partly because of my english level)
 
 ### Saturday 17.07
 
 - Passed two and a half trello cards (4 hours)
-
 ###### P.S. Maybe not that many cards passed for 4 hours, but I think it's ok, because topics was pretty big 
