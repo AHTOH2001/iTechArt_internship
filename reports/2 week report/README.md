@@ -16,4 +16,9 @@
 
 ### Thursday 22.07
 
-- Passed four more trello cards (2 + 2 hours)
+- Passed four more trello cards (2 + 2  hours)
+
+### Friday 23.07
+
+- Done another english interview (1 hour)
+- Passed two more trello cards (3 hours)
