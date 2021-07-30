@@ -10,4 +10,8 @@
 
 ### Wednesday 28.07
 
-- Passed two moew trello cards (1 + 3 hours)
+- Passed two more trello cards (1 + 3 hours)
+
+### Thursday 29.07
+
+- Passed one and a half more trello cards (4 hours) 
