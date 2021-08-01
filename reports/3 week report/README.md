@@ -15,3 +15,8 @@
 ### Thursday 29.07
 
 - Passed one and a half more trello cards (4 hours) 
+
+### Friday 30.07
+
+- Passed a whole half of a trello card (2 hours)
+
