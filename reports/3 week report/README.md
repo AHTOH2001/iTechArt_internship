@@ -20,3 +20,6 @@
 
 - Passed a whole half of a trello card (2 hours)
 
+### Sunday 01.08
+
+- Hope I have done the ORM trello card (2 hours)
