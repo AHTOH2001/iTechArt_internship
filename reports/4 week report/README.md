@@ -19,7 +19,10 @@
 - Passed three more trello cards (4 hours)
 - Tried to implement JWT token (2 hours)
 
-
 ### Friday 06.08
 
 - Passed six more trello cards (6 hours)
+
+### Sunday 08.08
+
+- Passed seven more trello cards (5 hours) 
