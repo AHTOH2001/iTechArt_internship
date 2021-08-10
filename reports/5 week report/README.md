@@ -2,8 +2,15 @@
 
 ### Monday 09.08
 
-- That day I have done another four trello cards. The hardest one was the card about jQuery, not because complexity but
-  because size. The rest three card was more simple, that simple that I managed to put them into "done" section without
-  discussing.
+- That day I have done four more trello cards. The hardest one was the card about jQuery, not because of the complexity
+  but because of the size. The remaining three cards were more simple, so simple that I managed to put them into "done"
+  section without discussing. (5 hours)
 
-###### P.S. As you can see a revolutionary happened in report writing. The problem is that I don't know how to rephrase what I had written, but it is a problem of future me :)
+###### P.S. As you can see a revolution happened in report writing. The problem is that I don't know how to rephrase what I had written, but it is a problem of future me :)
+
+### Tuesday 10.08
+
+- Eventually started React trello cards and somehow managed to done seven cards (4 hours). This time I don't sure which
+  of the cards were the hardest one, but I guess JSX one, however with not big margin. Also, I continued passing React
+  udemy course and for about half of time I spent to remind what I already knew (2 hours). In total six hours were
+  worked. 
