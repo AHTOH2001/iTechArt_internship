@@ -10,10 +10,10 @@
 
 ### Tuesday 10.08
 
-- I eventually started React trello cards and somehow managed to do seven cards (4 hours). This time I don't sure which
-  of the cards was the hardest one, but I guess JSX one, however with not big margin. Also, I continued passing React
-  udemy course and for about half of time I spent to remind what I already knew (2 hours). In total six hours were
-  worked. (6 hours)
+- I eventually started React trello cards and somehow managed to do seven cards (4 hours). This time I not sure which of
+  the cards was the hardest one, but I guess JSX one, however with not big margin. Also, I continued passing React udemy
+  course and for about half of time I spent to remind what I already knew (2 hours). In total six hours were worked. (6
+  hours)
 
 ### Wednesday 11.08
 
@@ -27,3 +27,8 @@
   done only two cards. (4 hours)
 
 ###### P.S. The project is comming... So I hope it will bring variety in my reports.
+
+### Friday 13.08
+
+- Suddenly all cards are in the "to discuss" or in the "done" areas. Except those which are forbidden to pass. And spent
+  the rest of the time on Udemy course. (6 hours)
