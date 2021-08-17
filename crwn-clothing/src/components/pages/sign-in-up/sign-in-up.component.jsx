@@ -1,8 +1,10 @@
 import React from 'react'
 
 import SignIn from '../../sign-in/sign-in.component'
+import SignUp from "../../sign-up/sign-up.component";
 
 import './sign-in-up.styles.scss'
+
 
 class SignInUpPage extends React.Component {
     constructor(props) {
@@ -11,7 +13,12 @@ class SignInUpPage extends React.Component {
     }
 
     render() {
-        return <SignIn/>
+        return (
+            <div className='sign-in-up'>
+                <SignIn/>
+                <SignUp/>
+            </div>
+        )
     }
 
 }
