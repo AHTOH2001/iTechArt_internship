@@ -22,4 +22,11 @@
 
 - Ended up preparation of repositories and closed two pull requests: one is yesterday's about preparations, and the
   other one is about Json Web Token implementation (actually the last one is not absolutely closed, but very close to
-  the closing :) ). And in udemy course I started the redux theme. (7 hours) 
+  the closing :) ). And in udemy course I started the redux theme. (7 hours)
+
+### Friday 20.08
+
+- Started working with the frontend side of the project. By the way I decided to name project "FrontieBontie", I hope
+  mentor would not mind 😝. Anyway, that day I whole day tried to implement log in mechanism, still not done, but some
+  progress had already been done. And in particular created simple log in page, throught which request can be sent to
+  the backend (7 hours)
