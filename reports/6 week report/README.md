@@ -10,4 +10,16 @@
 
 - That day was the meeting day, because the meeting with mentor was longer than two hours. But by the way I managed to
   ended up implementation of registration and authorization in Udemy project. Also I started the redux topic in
-  course. (5 hours) 
+  course. (5 hours)
+
+### Wednesday 18.08
+
+- Started preparation for the project: created repositories (one for the backend and one for the frontend), created
+  branches for git flow and opened first pull request with preparations such as installing linter, react and other
+  necessary packages. Moreover, spent some time on the udemy course. (7 hours)
+
+### Thursday 19.08
+
+- Ended up preparation of repositories and closed two pull requests: one is yesterday's about preparations, and the
+  other one is about Json Web Token implementation (actually the last one is not absolutely closed, but very close to
+  the closing :) ). And in udemy course I started the redux theme. (7 hours) 
