@@ -12,4 +12,10 @@
 
 - That day I got stucked on http only cookies to store JWT on frontend safely. And I hoped that I would finish this task
   on the next day (4 hours)
-- In addition, spent for about one hour on the Udemy course. (1 hour) 
+- In addition, spent for about one hour on the Udemy course. (1 hour)
+
+### Wednesday 25.08
+
+- That was the day before small vacation, so I decided to work as much as I can and worked out nine hours on web token
+  authentication. I believe that on backend side it is approximately done, but frontend side still need some
+  improvement (9 hours)
