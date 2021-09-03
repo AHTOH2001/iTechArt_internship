@@ -7,8 +7,14 @@
   when it is needed. But before this I spent about an hour on fixing problem with the git branch that I had made before
   vacation (9 hours)
 
-### Wednesday 01.08
+### Wednesday 01.09
 
 - As well as vacation suddenly ended up, so the studying started. That day I had met my mentor, wrote many reports,
   merged approved pull requests and started working on the authentication functionality card. Hope I will be able to
-  spend about 6 hours while studying (4 hours) 
+  spend about 6 hours while studying (4 hours)
+
+### Thursday 02.09
+
+- Almost done authentication functionality card. After logging in I put user non-confidential data into local storage,
+  and then from the local storage to the redux store. That day I worked most of the time during studying in university,
+  so I guess that is why I done not that much, in that time (8 hours)
