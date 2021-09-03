@@ -18,3 +18,9 @@
 - Almost done authentication functionality card. After logging in I put user non-confidential data into local storage,
   and then from the local storage to the redux store. That day I worked most of the time during studying in university,
   so I guess that is why I done not that much, in that time (8 hours)
+
+### Friday 03.09
+
+- That day I finished what started yesterday, but it turned out that I should not use local storage for storing user
+  data, because it would lead to the difference between user state in the local storage and in the backend database.
+  Moreover, started to adding redux saga to the project. (4 hours)
