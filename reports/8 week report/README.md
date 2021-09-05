@@ -24,3 +24,8 @@
 - That day I finished what started yesterday, but it turned out that I should not use local storage for storing user
   data, because it would lead to the difference between user state in the local storage and in the backend database.
   Moreover, started to adding redux saga to the project. (4 hours)
+
+### Saturday 04.09
+
+- Added redux saga to the frontend as well as changed class based redux to the functional based, using hooks. And also
+  started to modify SmartRequest class in utils.py, to be able to make get requests. (2.5 hours)
