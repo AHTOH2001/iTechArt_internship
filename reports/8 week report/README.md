@@ -29,3 +29,10 @@
 
 - Added redux saga to the frontend as well as changed class based redux to the functional based, using hooks. And also
   started to modify SmartRequest class in utils.py, to be able to make get requests. (2.5 hours)
+
+### Sunday 05.09
+
+- Rewrote SmartRequest class to be able to make get requests and optimezed refresh requests.
+- Also added more logic to redux saga, in particular if been set null user will be called the log out endpoint to remove
+  refresh token and also will be compared user in store with the new one, so that if they are match new user will not be
+  set into store, to not cause redundant rerendering of components. (3 hours)
