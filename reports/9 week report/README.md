@@ -7,3 +7,9 @@
 - Got rid of local storage for storing user info
 - Started working on sign up functionality
 - (In total 8 hours)
+
+### Tuesday 07.09
+
+- I have done with implementing sign up functionality in the backend, and finally merged authentication functionality
+  pull request. Almost ended up with sign up card in the front end, but I should send requests to the backend through
+  redux saga. (5 hours)
