@@ -19,3 +19,11 @@
 - Still didn't know what to do with sending requests throught redux saga. But instead of this I almost fully implemented
   person profile modifying functionality. The hardest part was to solve a problem with wrong validation of nested field
   of serializer while updating, but I think I have coped with this problem, the rest is the matter of time. (9 hours)
+
+### Thursday 09.09
+
+- Fortunately problem with saga solved without any effort, because it revealed that redux saga didn't need for the
+  requests because of my SmartRequest class that already incapsulates sending requests logic.
+- I have finished implementing user profile manipulation, by adding password changing functionality.
+- Started working on password recovery functionality.
+- (In total 5 hours)
