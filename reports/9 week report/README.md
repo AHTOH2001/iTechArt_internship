@@ -27,3 +27,8 @@
 - I have finished implementing user profile manipulation, by adding password changing functionality.
 - Started working on password recovery functionality.
 - (In total 5 hours)
+
+### Friday 10.09
+
+- Done implementing password recovery functionality, but actually only done what were written on the cards, because
+  these functionalities does not enough to recover forgotten password. (3 hours)   
