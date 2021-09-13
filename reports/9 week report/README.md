@@ -31,4 +31,8 @@
 ### Friday 10.09
 
 - Done implementing password recovery functionality, but actually only done what were written on the cards, because
-  these functionalities does not enough to recover forgotten password. (3 hours)   
+  these functionalities does not enough to recover forgotten password. (3 hours)  
+  
+### Saturday 11.09
+
+- Created two cards for implementing product adding functionality and spent some time on them. I wanted to also allow shop administrator to upload images for products, but this functionality turned out to be too hard to implement.
